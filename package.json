@@ -1,10 +1,13 @@
 {
-  "name": "THLwGijW9ZIJCcOnYcq2J59CUVPPyv1oCM5hdiNpf0gtJq5in7",
+  "name": "หวยย้อนหลัง3ปี ได้อย่างไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.35",
   "description": "หวยย้อนหลัง3ปี หวยไทยรัฐ ถึง หวยย้อนหลัง3ปี Ltobet หวยออนไลน์ อันดับหนึ่ง เป็นชุดเลขเด่นที่คอหวยจะต้องนำตัวเลขในตารางมาจับเข้าคู่อีกรอบ แตกต่างจาก หวยพญาคร",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": ["หวยย้อนหลัง3ปี","หวยย้อนหลัง3ปี Ltobet"],
+  "keywords": [
+    "หวยย้อนหลัง3ปี",
+    "หวยย้อนหลัง3ปี Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
