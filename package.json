@@ -1,16 +1,10 @@
 {
-  "name": "ผลหวยดาวโจนส์ย้อนหลัง ruay คืออะไร - เว็บใหม่ ruay 2023 ล่าสุด",
+  "name": "PodTVKmYW81TI2vV28ctXGZ1nwKjfbLMRvFgcxbLchxs6NnsSg",
   "theme": "syntax",
   "version": "1.0.9",
   "description": "ผลหวยดาวโจนส์ย้อนหลัง ruay หวยไทยรัฐ เว้นแต่ ผลหวยดาวโจนส์ย้อนหลัง ruay ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขด่นที่เว็บไซต์หวยไทยนำมาจับเข้าค",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": [
-    "ผลหวยดาวโจนส์ย้อนหลัง RUAY",
-    "ผลหวยดาวโจนส์ย้อนหลัง",
-    "RUAY",
-    "ผลหวยดาวโจนส์ย้อนหลัง Ruay",
-    "RUAY Ruay"
-  ],
+  "keywords": ["ผลหวยดาวโจนส์ย้อนหลัง RUAY","ผลหวยดาวโจนส์ย้อนหลัง","RUAY","ผลหวยดาวโจนส์ย้อนหลัง Ruay","RUAY Ruay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
