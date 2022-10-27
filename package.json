@@ -1,10 +1,16 @@
 {
-  "name": "Nw8shWXctzZCaoktNyyqxfHMw5wnG6OjYiSlu4iVXdnxyGiXPp",
+  "name": "ซื้อสลากดิจิทัล ไม่ได้ คืออะไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.20",
   "description": "ซื้อสลากดิจิทัล ไม่ได้ เด่น จนถึง ซื้อสลากดิจิทัล ไม่ได้ Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด 1 รอง 2 ได้ชุดเลข 3 ตัว และ 2 ตัว ดังนี้แนวทางเลขท้าย",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": ["ซื้อสลากดิจิทัล ไม่ได้","ซื้อสลากดิจิทัล","ไม่ได้","ซื้อสลากดิจิทัล Huay Happy","ไม่ได้ Huay Happy"],
+  "keywords": [
+    "ซื้อสลากดิจิทัล ไม่ได้",
+    "ซื้อสลากดิจิทัล",
+    "ไม่ได้",
+    "ซื้อสลากดิจิทัล Huay Happy",
+    "ไม่ได้ Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
