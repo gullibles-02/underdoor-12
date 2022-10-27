@@ -1,0 +1,12 @@
+{
+  "name": "uyx9R7qIwrTp3vVIFpRJINl2y1yCzsRLNk6gZLp8KSoJBv5W3e",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "ตารางหวยหุ้นต่างประเทศ เลข ถึง ตารางหวยหุ้นต่างประเทศ ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง 2 ตัว 63 64 65 82 84 85ขอให้สนุกกับการซื้อหวยออนไลน์งวดนี้ค่ะฟัน ",
+  "repository": "https://github.com/gullibles-02/underdoor-12",
+  "keywords": ["ตารางหวยหุ้นต่างประเทศ","ตารางหวยหุ้นต่างประเทศ Huay"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
