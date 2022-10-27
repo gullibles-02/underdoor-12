@@ -1,10 +1,13 @@
 {
-  "name": "LKrt2bfXDfYKVui1TEUW3OWj7QG170gUQNiN6KXYOiWRx43Zid",
+  "name": "โปรแกรมคิดหวยฟรี คืออะไร - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.37",
   "description": "โปรแกรมคิดหวยฟรี สำหรับการซื้อหวยหุ้นพม่าวันนี้เว็บไซต์ ถ้า โปรแกรมคิดหวยฟรี Choke โชค หวยออนไลน์ มีหวยทุกชนิด Mughuay นั้นเป็นเว็บที่ให้บริการรับ ซื้อหวยอ",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": ["โปรแกรมคิดหวยฟรี","โปรแกรมคิดหวยฟรี Choke"],
+  "keywords": [
+    "โปรแกรมคิดหวยฟรี",
+    "โปรแกรมคิดหวยฟรี Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
