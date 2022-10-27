@@ -1,16 +1,10 @@
 {
-  "name": "หวยหุ้นอังกฤษ ออกอะไร สมัครยังไง - เว็บใหม่ huay happy 2023 ล่าสุด",
+  "name": "SO2GWffTQzcSrrO1TzOAzst7STLG43TVcRSAhZahuv6W8VwTOe",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "หวยหุ้นอังกฤษ ออกอะไร เว็บเศรษฐี ต่อ หวยหุ้นอังกฤษ ออกอะไร Huay Happy หวยแฮปปี้ หวยออนไลน์ มีหวยทุกชนิด น้องมาแรง พร้อมพุ่งแซงทุกเว็บในประเทศไทย มีหวยออนไล",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": [
-    "หวยหุ้นอังกฤษ ออกอะไร",
-    "หวยหุ้นอังกฤษ",
-    "ออกอะไร",
-    "หวยหุ้นอังกฤษ Huay Happy",
-    "ออกอะไร Huay Happy"
-  ],
+  "keywords": ["หวยหุ้นอังกฤษ ออกอะไร","หวยหุ้นอังกฤษ","ออกอะไร","หวยหุ้นอังกฤษ Huay Happy","ออกอะไร Huay Happy"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
