@@ -1,10 +1,20 @@
 {
-  "name": "CW62l4PhzgMowDn22AhRbTU5Om9F21Wd1ttvUXqzXRTp00pNxN",
+  "name": "สูตรคํานวณหวย 3 ตัวบน 2565 ได้อย่างไร - เว็บใหม่ jetsadabet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.52",
   "description": "สูตรคํานวณหวย 3 ตัวบน 2565 เลขเด็ดโค้งสุดท้าย ถึง สูตรคํานวณหวย 3 ตัวบน 2565 Jetsadabet เจษฎาเบท หวยออนไลน์ มีหวยทุกชนิด 2566 งวดที่แล้วเข้า 2 ตัวตรง 31 ดู",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": ["สูตรคํานวณหวย 3 ตัวบน 2565","สูตรคํานวณหวย","3","ตัวบน","2565","สูตรคํานวณหวย Jetsadabet","3 Jetsadabet","ตัวบน Jetsadabet","2565 Jetsadabet"],
+  "keywords": [
+    "สูตรคํานวณหวย 3 ตัวบน 2565",
+    "สูตรคํานวณหวย",
+    "3",
+    "ตัวบน",
+    "2565",
+    "สูตรคํานวณหวย Jetsadabet",
+    "3 Jetsadabet",
+    "ตัวบน Jetsadabet",
+    "2565 Jetsadabet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
