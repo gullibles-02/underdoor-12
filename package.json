@@ -1,10 +1,13 @@
 {
-  "name": "b5dv1MLya1a4t7gKd7Q7HZd9ZrbEWJS8sGJG8aM4v8yPdnfmM0",
+  "name": "แนวทางหวยหุ้นวันนี้ เล่นยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.70",
   "description": "แนวทางหวยหุ้นวันนี้ หวยลาว สำหรับ แนวทางหวยหุ้นวันนี้ ที่ Huaysod เว็บหวยออนไลน์ อันดับหนึ่ง ຫວຍລາວ หรือ หวยพัฒนา ( ຫວຍພັດທະນາ ) แนวทางหวยหุ้นวันนี้ ที่กำล",
   "repository": "https://github.com/gullibles-02/underdoor-12",
-  "keywords": ["แนวทางหวยหุ้นวันนี้","แนวทางหวยหุ้นวันนี้ Huaysod"],
+  "keywords": [
+    "แนวทางหวยหุ้นวันนี้",
+    "แนวทางหวยหุ้นวันนี้ Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
